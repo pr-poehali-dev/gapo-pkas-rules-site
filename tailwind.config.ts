@@ -66,6 +66,7 @@ export default {
 			},
 			fontFamily: {
 				golos: ['"Golos Text"', 'sans-serif'],
+				montserrat: ['Montserrat', 'sans-serif'],
 			},
 			borderRadius: {
 				lg: 'var(--radius)',
